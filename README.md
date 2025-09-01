@@ -1,5 +1,5 @@
 <a name="Aleksander's Markdown Cheatsheet"></a>
-![picture alt](https://placehold.co/1000x100/transparent/999?text=Aleksnadr's Markdown%20Cheatsheet&font=source-sans-pro "Aleksander's Markdown Cheatsheet")
+Aleksander's Markdown Cheatsheet"
 
 # 📝 Typography
 
